@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir ./five
 cd five
 for subdir in dir{1..5}
